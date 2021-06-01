@@ -1,0 +1,62 @@
+.AutoCompleteContainer {
+    background-color: #e5e5e5;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    margin-top: 5px;
+    position: absolute;
+    z-index: 10;
+    width: 50%;
+}
+
+.AutoCompleteHiddenContainer {
+    display: none;
+}
+
+.AutoCompleteList {
+    padding-left: 0px;
+}
+
+.AutoCompleteListItem {
+    list-style: none;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 32.63px;
+    color: #000000;
+    cursor: pointer;
+    text-transform: capitalize;
+    padding-left: 20px;
+}
+
+.AutoCompleteListItem:hover {
+    color: #FFFFFF;
+    background-color: #6496e4;
+}
+
+
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+    .AutoCompleteContainer {
+        width: 85%;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 799px) {
+    .AutoCompleteContainer {
+        width: 85%;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1900px) {
+}
+@media only screen and (min-width: 1920px) and (max-width: 1999px) {
+}

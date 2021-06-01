@@ -1,0 +1,89 @@
+.searchInputGroup {
+    background: #FFFFFF;
+    border: 1px solid #000000;
+    box-sizing: border-box;
+    border-radius: 5px;
+    height: 75px;
+}
+
+.searchInput {
+    width: 80%;
+    border: none;
+    height: 85%;
+    margin-top: 20px;
+    margin-left: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 140.62%;
+    color: rgba(0, 0, 0, 0.5);
+}
+
+.searchInputWithValue {
+    width: 80%;
+    border: none;
+    height: 85%;
+    margin-top: 20px;
+    margin-left: 16px;
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 26px;
+    line-height: 140.62%;
+    color: #000000;
+}
+
+.searchInput:focus {
+    outline: none;
+}
+
+.searchInputWithValue:focus {
+    outline: none;
+}
+
+.SearchButton {
+    background: none;
+    border: none;
+    float: right;
+    padding: 23px 29px 0px 0px;
+}
+
+.SearchIcon {
+    height: 28px;
+    width: 28px;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+    .searchInput {
+        width: 75%;
+    }
+
+    .searchInputWithValue {
+        width: 75%;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 799px) {
+    .searchInput {
+        width: 75%;
+    }
+
+    .searchInputWithValue {
+        width: 75%;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1900px) {
+}
+@media only screen and (min-width: 1920px) and (max-width: 1999px) {
+}

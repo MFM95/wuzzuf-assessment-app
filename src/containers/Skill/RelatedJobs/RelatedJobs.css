@@ -1,0 +1,36 @@
+.RelatedJobsContainer {
+    background-color: #FFFFFF;
+    width: 61.6%;
+    margin: 54px 42px 23px 44px;
+    padding-bottom: 60px;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+    .RelatedJobsContainer {
+        width: 85%;
+        margin: 15px 42px 23px 30px;
+        padding-bottom: 30px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 799px) {
+    .RelatedJobsContainer {
+        width: 85%;
+        margin: 15px 42px 23px 30px;
+        padding-bottom: 30px;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1900px) {
+}
+@media only screen and (min-width: 1920px) and (max-width: 1999px) {
+}

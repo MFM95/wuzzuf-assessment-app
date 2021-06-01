@@ -1,0 +1,39 @@
+.BuildControl {
+    background-color: #ffffff;
+}
+
+.BuildControlSearch {
+    margin: auto;
+    width: 50%;
+    padding: 34px 0px;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+    .BuildControlSearch {
+        margin: auto;
+        width: 85%;
+        padding: 34px 0px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 799px) {
+    .BuildControlSearch {
+        margin: auto;
+        width: 85%;
+        padding: 34px 0px;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1900px) {
+}
+@media only screen and (min-width: 1920px) and (max-width: 1999px) {
+}

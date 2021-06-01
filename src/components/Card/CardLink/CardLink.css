@@ -1,0 +1,16 @@
+.CardLinkContainer {
+    float: left;
+    position: absolute;
+    bottom: 23px;
+}
+
+.CardLink {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 24.47px;
+    color: #000000;
+    text-decoration-line: underline;
+    margin: 0;
+}

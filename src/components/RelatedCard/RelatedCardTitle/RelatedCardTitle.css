@@ -1,0 +1,40 @@
+.RelatedCardTitleContainer {
+    width: 100%;
+}
+.RelatedCardTitle {
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 32.63px;
+    color: #000000;
+    margin: 0;
+    text-decoration-line: underline;
+    text-transform: capitalize;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+    .RelatedCardTitle {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 799px) {
+    .RelatedCardTitle {
+        font-size: 18px;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1023px) {
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1900px) {
+}
+@media only screen and (min-width: 1920px) and (max-width: 1999px) {
+}

@@ -1,0 +1,42 @@
+.RelatedCardContainer {
+    width: 88%;
+    float: left;
+    background-color: #F0F0F0;
+    padding: 20px 0px 24px 30px;
+    margin: 28px 21px 0px 39px;
+}
+
+@media only screen and (min-width: 0px) and (max-width: 575px) {
+    .RelatedCardContainer {
+        width: 80%;
+        float: unset;
+        padding: 20px 0px 24px 20px;
+        margin: 27px 21px 0px 25px;
+    }
+}
+
+@media only screen and (min-width: 576px) and (max-width: 799px) {
+    .RelatedCardContainer {
+        width: 80%;
+        float: unset;
+        padding: 20px 0px 24px 20px;
+        margin: 27px 21px 0px 25px;
+    }
+}
+
+@media only screen and (min-width: 800px) and (max-width: 1023px) {
+    .RelatedCardContainer {
+        width: 80%;
+    }
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1199px) {
+}
+
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+}
+
+@media only screen and (min-width: 1400px) and (max-width: 1900px) {
+}
+@media only screen and (min-width: 1920px) and (max-width: 1999px) {
+}
